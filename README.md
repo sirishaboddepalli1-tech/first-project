@@ -1,2 +1,2 @@
 # first-project
-simple calculator project using python
+simple calculator project using java
